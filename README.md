@@ -28,7 +28,8 @@ The project is a combination of **Markdown** and **code cells**, demonstrating f
 
 ## 🖼️ Screenshot Preview  
 
-![Screenshot of Notebook](screenshot.png)  
+![Screenshot of Notebook](<img width="1538" height="808" alt="image" src="https://github.com/user-attachments/assets/be9b7309-a276-420e-8140-15a4c1e7c71f" />
+)  
 
 ---
 
